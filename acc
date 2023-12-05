@@ -1,4 +1,4 @@
-Kaitun = true
+Kaitun = false
  if Kaitun then
     _G.Teams = "Pirate"
     _G.Auto_Farm_Level = true
